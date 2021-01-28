@@ -618,4 +618,4 @@ color:rgba(148,83,54,0.5);
 @media(max-width:768px){#top .search-box{left: 100%}}
 @media(max-width:768px){.mega-menu.dropdown-item{width: 100%;left: 0;}}
 @media(max-width:768px){.nav-shop-img{width: auto;}}
-@media(min-width:768px){.nav-shop-img{width: 100%; height:100%;}}
+@media(min-width:768px){.nav-shop-img{/*width: 100%;*/ height:100%;}}
